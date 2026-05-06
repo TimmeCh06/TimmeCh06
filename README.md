@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 Tim here.
+## I'm currently a first-year undergraduate student at UC Davis.
+## Majoring in Data Science and currently exploring statistical learning.
 
 <!--
 **TimmeCh06/TimmeCh06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
